@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">437672637329-0h5663pja4ihuj0dflso74itmnfi4qkv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://drove-e14dc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">437672637329</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKtG-slEzrE8YMzu6PQ9s74YxGzrrTPwo</string>
+    <string name="google_app_id" translatable="false">1:437672637329:android:fa77e3aa8a0ae0d7d52030</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKtG-slEzrE8YMzu6PQ9s74YxGzrrTPwo</string>
+    <string name="google_storage_bucket" translatable="false">drove-e14dc.appspot.com</string>
+    <string name="project_id" translatable="false">drove-e14dc</string>
+</resources>
